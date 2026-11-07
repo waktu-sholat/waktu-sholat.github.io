@@ -1,1 +1,3 @@
-# waktu-sholat.github.io
+# Jadwal Waktu Sholat
+
+Area Wilayah Indonesia.
